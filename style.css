@@ -1,0 +1,25 @@
+.card1{
+    background-color: rgb(3, 172, 3);
+    width: 530px;
+    padding: 20px;
+    border: 3px solid rgb(38, 214, 76);
+    border-radius: 5px;
+    font-family: Verdana;
+}
+.card2{
+    background-color: green;
+    width: 530px; padding: 20px; 
+    border: 3px solid rgb(255, 241, 44); 
+    border-radius: 5px; 
+    margin-top: 50px;
+    font-family: Verdana;
+}
+.avatar{
+    background-color: blue; 
+    width: 70px; 
+    height: 70px; 
+    border-radius: 200px;
+}
+.destaque{
+    color: darkolivegreen
+}
